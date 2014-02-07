@@ -1,4 +1,4 @@
-A 0
+A 0 a
 A's 1 a's
 AA's 2 a's aa'
 AB's 2 ab' b's
@@ -57,7 +57,7 @@ Abyssinia 7 aby bys ini nia sin ssi yss
 Abyssinia's 9 a's aby bys ia' ini nia sin ssi yss
 Abyssinian 8 aby bys ian ini nia sin ssi yss
 Abyssinian's 10 aby an' bys ian ini n's nia sin ssi yss
-Ac 0
+Ac 0 ac
 Ac's 2 ac' c's
 Acadia 4 aca adi cad dia
 Acadia's 6 a's aca adi cad dia ia'
@@ -188,7 +188,7 @@ Afro 2 afr fro
 Afro's 4 afr fro o's ro'
 Afrocentrism 10 afr cen ent fro ism ntr oce ris roc tri
 Afros 3 afr fro ros
-Ag 0
+Ag 0 ag
 Ag's 2 ag' g's
 Agamemnon 7 aga ame emn gam mem mno non
 Agamemnon's 9 aga ame emn gam mem mno n's non on'
@@ -254,7 +254,7 @@ Akiva's 5 a's aki iva kiv va'
 Akkad 3 akk kad kka
 Akron 3 akr kro ron
 Akron's 5 akr kro n's on' ron
-Al 0
+Al 0 al
 Al's 2 al' l's
 Ala 1 ala
 Alabama 5 aba ala ama bam lab
@@ -509,7 +509,7 @@ Alyssa 4 aly lys ssa yss
 Alyssa's 6 a's aly lys sa' ssa yss
 Alzheimer 7 alz eim hei ime lzh mer zhe
 Alzheimer's 9 alz eim er' hei ime lzh mer r's zhe
-Am 0
+Am 0 am
 Am's 2 am' m's
 Amadeus 5 ade ama deu eus mad
 Amadeus's 7 ade ama deu eus mad s's us'
@@ -822,7 +822,7 @@ Aquino 4 aqu ino qui uin
 Aquino's 6 aqu ino no' o's qui uin
 Aquitaine 7 ain aqu ine ita qui tai uit
 Aquitaine's 9 ain aqu e's ine ita ne' qui tai uit
-Ar 0
+Ar 0 ar
 Ar's 2 ar' r's
 Ara 1 ara
 Ara's 3 a's ara ra'
@@ -988,7 +988,7 @@ Aruba's 5 a's aru ba' rub uba
 Aryan 3 ary rya yan
 Aryan's 5 an' ary n's rya yan
 Aryans 4 ans ary rya yan
-As 0
+As 0 as
 Asama 3 ama asa sam
 Asama's 5 a's ama asa ma' sam
 Ascella 5 asc cel ell lla sce
@@ -1054,7 +1054,7 @@ Asunción 7 asu ci� ió nci sun unc ón
 Asunción's 9 asu ci� ió n's nci sun unc �n' ón
 Aswan 3 asw swa wan
 Aswan's 5 an' asw n's swa wan
-At 0
+At 0 at
 At's 2 at' t's
 Atacama 5 aca ama ata cam tac
 Atacama's 7 a's aca ama ata cam ma' tac
@@ -1105,7 +1105,7 @@ Attlee 4 att lee tle ttl
 Attucks 5 att cks ttu tuc uck
 Atwood 4 atw ood two woo
 Atwood's 6 atw d's od' ood two woo
-Au 0
+Au 0 au
 Au's 2 au' u's
 Aubrey 4 aub bre rey ubr
 Auckland 6 and auc ckl kla lan uck
@@ -1175,7 +1175,7 @@ Austronesian 10 aus esi ian nes one ron sia str tro ust
 Austronesian's 12 an' aus esi ian n's nes one ron sia str tro ust
 Autumn 4 aut tum umn utu
 Autumn's 6 aut mn' n's tum umn utu
-Av 0
+Av 0 av
 Av's 2 av' v's
 Ava 1 ava
 Ava's 3 a's ava va'
@@ -1226,7 +1226,7 @@ Aztecan's 7 an' azt can eca n's tec zte
 Aztecs 4 azt ecs tec zte
 Aztlan 4 azt lan tla ztl
 Aztlan's 6 an' azt lan n's tla ztl
-B 0
+B 0 b
 B's 1 b's
 BA's 2 a's ba'
 BASIC's 5 asi bas c's ic' sic
@@ -1237,7 +1237,7 @@ BM's 2 bm' m's
 BMW 1 bmw
 BMW's 3 bmw mw' w's
 BS's 2 bs' s's
-Ba 0
+Ba 0 ba
 Ba's 2 a's ba'
 Baal 2 aal baa
 Baal's 4 aal al' baa l's
@@ -1500,7 +1500,7 @@ Bayonne's 7 ayo bay e's ne' nne onn yon
 Bayreuth 6 ayr bay eut reu uth yre
 Baywatch 6 atc ayw bay tch wat ywa
 Baywatch's 8 atc ayw bay ch' h's tch wat ywa
-Be 0
+Be 0 be
 Be's 2 be' e's
 Beach 3 ach bea eac
 Beach's 5 ach bea ch' eac h's
@@ -1780,7 +1780,7 @@ Bhutan 4 bhu hut tan uta
 Bhutan's 6 an' bhu hut n's tan uta
 Bhutto 4 bhu hut tto utt
 Bhutto's 6 bhu hut o's to' tto utt
-Bi 0
+Bi 0 bi
 Bi's 2 bi' i's
 Bialystok 7 aly bia ial lys sto tok yst
 Bianca 4 anc bia ian nca
@@ -1844,7 +1844,7 @@ Bjerknes 6 bje erk jer kne nes rkn
 Bjerknes's 8 bje erk es' jer kne nes rkn s's
 Bjork 3 bjo jor ork
 Bjork's 5 bjo jor k's ork rk'
-Bk 0
+Bk 0 bk
 Bk's 2 bk' k's
 Black 3 ack bla lac
 Black's 5 ack bla ck' k's lac
@@ -2067,7 +2067,7 @@ Boyer's 5 boy er' oye r's yer
 Boyle 3 boy oyl yle
 Boötes 5 bo� oö tes �te öt
 Boötes's 7 bo� es' oö s's tes �te öt
-Br 0
+Br 0 br
 Br's 2 br' r's
 Brad 2 bra rad
 Brad's 4 ad' bra d's rad
@@ -2445,7 +2445,7 @@ Byzantine's 9 ant byz e's ine ne' nti tin yza zan
 Byzantines 8 ant byz ine nes nti tin yza zan
 Byzantium 7 ant byz ium nti tiu yza zan
 Byzantium's 9 ant byz ium m's nti tiu um' yza zan
-C 0
+C 0 c
 C's 1 c's
 CD's 2 cd' d's
 CEO's 3 ceo eo' o's
@@ -2460,7 +2460,7 @@ CPU's 3 cpu pu' u's
 CRT's 3 crt rt' t's
 CST's 3 cst st' t's
 CT's 2 ct' t's
-Ca 0
+Ca 0 ca
 Ca's 2 a's ca'
 Cabernet 6 abe ber cab ern net rne
 Cabernet's 8 abe ber cab ern et' net rne t's
@@ -2852,7 +2852,7 @@ Cayman 4 aym cay man yma
 Cayman's 6 an' aym cay man n's yma
 Cayuga 4 ayu cay uga yug
 Cayuga's 6 a's ayu cay ga' uga yug
-Cd 0
+Cd 0 cd
 Cd's 2 cd' d's
 Ceausescu 7 aus cea eau esc scu ses use
 Ceausescu's 9 aus cea cu' eau esc scu ses u's use
@@ -2912,7 +2912,7 @@ Cetus 3 cet etu tus
 Ceylon 4 cey eyl lon ylo
 Ceylon's 6 cey eyl lon n's on' ylo
 Cezanne 5 ann cez eza nne zan
-Cf 0
+Cf 0 cf
 Cf's 2 cf' f's
 Ch'in 3 'in ch' h'i
 Chablis 5 abl bli cha hab lis
@@ -3199,7 +3199,7 @@ Churriguera 9 chu era gue hur igu rig rri uer urr
 Churriguera's 11 a's chu era gue hur igu ra' rig rri uer urr
 Chuvash 5 ash chu huv uva vas
 Chuvash's 7 ash chu h's huv sh' uva vas
-Ci 0
+Ci 0 ci
 Cicero 4 cer cic ero ice
 Cicero's 6 cer cic ero ice o's ro'
 Cid 1 cid
@@ -3226,7 +3226,7 @@ Citigroup 7 cit gro igr iti oup rou tig
 Citigroup's 9 cit gro igr iti oup p's rou tig up'
 Citroen 5 cit itr oen roe tro
 Citroen's 7 cit en' itr n's oen roe tro
-Cl 0
+Cl 0 cl
 Cl's 2 cl' l's
 Claiborne 7 aib bor cla ibo lai orn rne
 Claiborne's 9 aib bor cla e's ibo lai ne' orn rne
@@ -3324,9 +3324,9 @@ Clyde 3 cly lyd yde
 Clydesdale 8 ale cly dal des esd lyd sda yde
 Clydesdale's 10 ale cly dal des e's esd le' lyd sda yde
 Clytemnestra 10 cly emn est lyt mne nes str tem tra yte
-Cm 0
+Cm 0 cm
 Cm's 2 cm' m's
-Co 0
+Co 0 co
 Co's 2 co' o's
 Cobain 4 ain bai cob oba
 Cobain's 6 ain bai cob in' n's oba
@@ -3629,7 +3629,7 @@ Coy 1 coy
 Coy's 3 coy oy' y's
 Cozumel 5 coz mel ozu ume zum
 Cozumel's 7 coz el' l's mel ozu ume zum
-Cr 0
+Cr 0 cr
 Cr's 2 cr' r's
 Crabbe 4 abb bbe cra rab
 Craft 3 aft cra raf
@@ -3719,13 +3719,13 @@ Cryptozoic 8 cry oic ozo pto ryp toz ypt zoi
 Cryptozoic's 10 c's cry ic' oic ozo pto ryp toz ypt zoi
 Crystal 5 cry rys sta tal yst
 Crystal's 7 al' cry l's rys sta tal yst
-Cs 0
+Cs 0 cs
 Csonka 4 cso nka onk son
 Csonka's 6 a's cso ka' nka onk son
 Ctesiphon 7 cte esi hon iph pho sip tes
 Cthulhu 5 cth hul lhu thu ulh
 Cthulhu's 7 cth hu' hul lhu thu u's ulh
-Cu 0
+Cu 0 cu
 Cu's 2 cu' u's
 Cuba 2 cub uba
 Cuba's 4 a's ba' cub uba
@@ -3796,7 +3796,7 @@ Czechoslovakian's 15 aki an' cho cze ech hos ian kia lov n's osl ova slo vak zec
 Czechoslovakians 14 aki ans cho cze ech hos ian kia lov osl ova slo vak zec
 Czechs 4 chs cze ech zec
 Czerny 4 cze ern rny zer
-D 0
+D 0 d
 D's 1 d's
 DA's 2 a's da'
 DAT's 3 at' dat t's
@@ -4150,7 +4150,7 @@ Dhaka 3 aka dha hak
 Dhaka's 5 a's aka dha hak ka'
 Dhaulagiri 8 agi aul dha gir hau iri lag ula
 Dhaulagiri's 10 agi aul dha gir hau i's iri lag ri' ula
-Di 0
+Di 0 di
 DiCaprio 6 apr cap dic ica pri rio
 DiCaprio's 8 apr cap dic ica io' o's pri rio
 DiMaggio 6 agg dim ggi gio ima mag
@@ -4378,7 +4378,7 @@ Downs 3 dow own wns
 Downy 3 dow own wny
 Downy's 5 dow ny' own wny y's
 Doyle 3 doy oyl yle
-Dr 0
+Dr 0 dr
 Draco 3 aco dra rac
 Draco's 5 aco co' dra o's rac
 Draconian 7 aco con dra ian nia oni rac
@@ -4497,7 +4497,7 @@ Dzungaria 7 ari dzu gar nga ria ung zun
 Dürer 4 dü rer �re ür
 Düsseldorf 9 dor dü eld ldo orf sel sse �ss üs
 Düsseldorf's 11 dor dü eld f's ldo orf rf' sel sse �ss üs
-E 0
+E 0 e
 E's 1 e's
 ECG's 3 cg' ecg g's
 ECMAScript 8 asc cma cri ecm ipt mas rip scr
@@ -4564,7 +4564,7 @@ Ecuadorans 8 ado ans cua dor ecu ora ran uad
 Ecuadorian 8 ado cua dor ecu ian ori ria uad
 Ecuadorian's 10 ado an' cua dor ecu ian n's ori ria uad
 Ecuadorians 9 ado ans cua dor ecu ian ori ria uad
-Ed 0
+Ed 0 ed
 Ed's 2 d's ed'
 Edam 2 dam eda
 Edam's 4 am' dam eda m's
@@ -4838,7 +4838,7 @@ Epson 3 eps pso son
 Epson's 5 eps n's on' pso son
 Epstein 5 ein eps pst ste tei
 Equuleus 6 equ eus leu quu ule uul
-Er 0
+Er 0 er
 Er's 2 er' r's
 Erasmus 5 asm era mus ras smu
 Erasmus's 7 asm era mus ras s's smu us'
@@ -4903,7 +4903,7 @@ ErvIn 3 erv rvi vin
 ErvIn's 5 erv in' n's rvi vin
 Erwin 3 erw rwi win
 Erwin's 5 erw in' n's rwi win
-Es 0
+Es 0 es
 Esau 2 esa sau
 Esau's 4 au' esa sau u's
 Escher 4 che esc her sch
@@ -4972,7 +4972,7 @@ Etruria 5 etr ria rur tru uri
 Etruscan 6 can etr rus sca tru usc
 Etta 2 ett tta
 Etta's 4 a's ett ta' tta
-Eu 0
+Eu 0 eu
 Eu's 2 eu' u's
 Eucharist 7 ari cha euc har ist ris uch
 Eucharist's 9 ari cha euc har ist ris st' t's uch
@@ -5073,7 +5073,7 @@ Eysenck 5 enc eys nck sen yse
 Eysenck's 7 ck' enc eys k's nck sen yse
 Ezekiel 5 eki eze iel kie zek
 Ezra 2 ezr zra
-F 0
+F 0 f
 F's 1 f's
 FBI's 3 bi' fbi i's
 FDIC's 4 c's dic fdi ic'
@@ -5160,7 +5160,7 @@ Fay 1 fay
 Fay's 3 ay' fay y's
 Faye 2 aye fay
 Faye's 4 aye e's fay ye'
-Fe 0
+Fe 0 fe
 Fe's 2 e's fe'
 Feb 1 feb
 Feb's 3 b's eb' feb
@@ -5315,7 +5315,7 @@ Flowers 5 ers flo low owe wer
 Floyd 3 flo loy oyd
 Flynn 3 fly lyn ynn
 Flynn's 5 fly lyn n's nn' ynn
-Fm 0
+Fm 0 fm
 Fm's 2 fm' m's
 Foch 2 foc och
 Fokker 4 fok ker kke okk
@@ -5356,7 +5356,7 @@ Fourneyron's 10 eyr fou n's ney on' our rne ron urn yro
 Fowler 4 fow ler owl wle
 Fox 1 fox
 Fox's 3 fox ox' x's
-Fr 0
+Fr 0 fr
 Fr's 2 fr' r's
 Fragonard 7 ago ard fra gon nar ona rag
 Fran 2 fra ran
@@ -5511,9 +5511,9 @@ Fushun 4 fus hun shu ush
 Fuzhou 4 fuz hou uzh zho
 Fuzhou's 6 fuz hou ou' u's uzh zho
 Fuzzbuster 8 bus fuz ste ter ust uzz zbu zzb
-G 0
+G 0 g
 G's 1 g's
-GE 0
+GE 0 ge
 GE's 2 e's ge'
 GHQ's 3 ghq hq' q's
 GMT's 3 gmt mt' t's
@@ -5522,7 +5522,7 @@ GOP's 3 gop op' p's
 GP's 2 gp' p's
 GTE 1 gte
 GTE's 3 e's gte te'
-Ga 0
+Ga 0 ga
 Ga's 2 a's ga'
 Gable 3 abl ble gab
 Gabon 3 abo bon gab
@@ -5672,11 +5672,11 @@ Gayle 3 ayl gay yle
 Gayle's 5 ayl e's gay le' yle
 Gaza 2 aza gaz
 Gaziantep 7 ant azi gaz ian nte tep zia
-Gd 0
+Gd 0 gd
 Gd's 2 d's gd'
 Gdansk 4 ans dan gda nsk
 Gdansk's 6 ans dan gda k's nsk sk'
-Ge 0
+Ge 0 ge
 Ge's 2 e's ge'
 Geffen 4 eff fen ffe gef
 Geffen's 6 eff en' fen ffe gef n's
@@ -6210,7 +6210,7 @@ Gödel 4 del gö �de öd
 Gödel's 6 del el' gö l's �de öd
 Göteborg 7 bor ebo gö org teb �te öt
 Göteborg's 9 bor ebo g's gö org rg' teb �te öt
-H 0
+H 0 h
 H's 1 h's
 HF's 2 f's hf'
 HIV's 3 hiv iv' v's
@@ -6440,7 +6440,7 @@ Hayworth's 8 ayw h's hay ort rth th' wor ywo
 Hazel 3 aze haz zel
 Hazel's 5 aze el' haz l's zel
 Hazlitt 5 azl haz itt lit zli
-He 0
+He 0 he
 He's 2 e's he'
 Head 2 ead hea
 Head's 4 ad' d's ead hea
@@ -6619,9 +6619,9 @@ Heywood 5 eyw hey ood woo ywo
 Hezbollah 7 bol ezb hez lah lla oll zbo
 Hezbollah's 9 ah' bol ezb h's hez lah lla oll zbo
 Hezekiah 6 eki eze hez iah kia zek
-Hf 0
+Hf 0 hf
 Hf's 2 f's hf'
-Hg 0
+Hg 0 hg
 Hg's 2 g's hg'
 Hialeah 5 ale eah hia ial lea
 Hiawatha 6 ath awa hia iaw tha wat
@@ -6703,7 +6703,7 @@ Hitlers 5 ers hit itl ler tle
 Hittite 5 hit ite itt tit tti
 Hittite's 7 e's hit ite itt te' tit tti
 Hmong 3 hmo mon ong
-Ho 0
+Ho 0 ho
 Ho's 2 ho' o's
 Hobart 4 art bar hob oba
 Hobart's 6 art bar hob oba rt' t's
@@ -6944,11 +6944,11 @@ Hyperion 6 eri hyp ion per rio ype
 Hyperion's 8 eri hyp ion n's on' per rio ype
 Hyundai 5 dai hyu nda und yun
 Hyundai's 7 ai' dai hyu i's nda und yun
-Hz 0
+Hz 0 hz
 Hz's 2 hz' z's
 Héloise 6 hé ise loi ois �lo él
 Héloise's 8 e's hé ise loi ois se' �lo él
-I 0
+I 0 i
 I'd 1 i'd
 I'll 2 'll i'l
 I'm 1 i'm
@@ -7040,7 +7040,7 @@ Imogene 5 ene gen imo mog oge
 Imogene's 7 e's ene gen imo mog ne' oge
 Imus 2 imu mus
 Imus's 4 imu mus s's us'
-In 0
+In 0 in
 In's 2 in' n's
 Ina 1 ina
 Ina's 3 a's ina na'
@@ -7114,7 +7114,7 @@ Inuktitut 7 inu itu kti nuk tit tut ukt
 Inuktitut's 9 inu itu kti nuk t's tit tut ukt ut'
 Invar 3 inv nva var
 Invar's 5 ar' inv nva r's var
-Io 0
+Io 0 io
 Io's 2 io' o's
 Ionesco 5 esc ion nes one sco
 Ionian 4 ian ion nia oni
@@ -7133,7 +7133,7 @@ Iqaluit 5 alu iqa lui qal uit
 Iqaluit's 7 alu iqa it' lui qal t's uit
 Iqbal 3 bal iqb qba
 Iquitos 5 iqu ito qui tos uit
-Ir 0
+Ir 0 ir
 Ir's 2 ir' r's
 Ira 1 ira
 Ira's 3 a's ira ra'
@@ -7227,7 +7227,7 @@ Istanbul 6 anb bul ist nbu sta tan
 Istanbul's 8 anb bul ist l's nbu sta tan ul'
 Isuzu 3 isu suz uzu
 Isuzu's 5 isu suz u's uzu zu'
-It 0
+It 0 it
 Itaipu 4 aip ipu ita tai
 Itaipu's 6 aip ipu ita pu' tai u's
 Italian 5 ali ian ita lia tal
@@ -7263,7 +7263,7 @@ Izod 2 izo zod
 Izod's 4 d's izo od' zod
 Izvestia 6 est izv sti tia ves zve
 Izvestia's 8 a's est ia' izv sti tia ves zve
-J 0
+J 0 j
 J's 1 j's
 JFK 1 jfk
 JFK's 3 fk' jfk k's
@@ -7555,7 +7555,7 @@ Jinnah 4 inn jin nah nna
 Jinny 3 inn jin nny
 Jinny's 5 inn jin nny ny' y's
 Jivaro 4 aro iva jiv var
-Jo 0
+Jo 0 jo
 Jo's 2 jo' o's
 Joan 2 joa oan
 Joann 3 ann joa oan
@@ -7670,7 +7670,7 @@ Joyce 3 joy oyc yce
 Joycean 5 cea ean joy oyc yce
 Joyner 4 joy ner oyn yne
 Joyner's 6 er' joy ner oyn r's yne
-Jr 0
+Jr 0 jr
 Jr's 2 jr' r's
 Juan 2 jua uan
 Juan's 4 an' jua n's uan
@@ -7754,7 +7754,7 @@ Justinian's 9 an' ian ini jus n's nia sti tin ust
 Jutland 5 and jut lan tla utl
 Jutland's 7 and d's jut lan nd' tla utl
 Juvenal 5 ena juv nal uve ven
-K 0
+K 0 k
 K's 1 k's
 KFC 1 kfc
 KFC's 3 c's fc' kfc
@@ -8207,7 +8207,7 @@ Kosygin 5 gin kos osy syg ygi
 Koufax 4 fax kou ouf ufa
 Koufax's 6 ax' fax kou ouf ufa x's
 Kowloon 5 kow loo oon owl wlo
-Kr 0
+Kr 0 kr
 Kr's 2 kr' r's
 Kraft 3 aft kra raf
 Kraft's 5 aft ft' kra raf t's
@@ -8313,7 +8313,7 @@ Kyushu 4 kyu shu ush yus
 Kyushu's 6 hu' kyu shu u's ush yus
 Köln 3 kö �ln öl
 Köln's 5 kö ln' n's �ln öl
-L 0
+L 0 l
 L'Amour 5 'am amo l'a mou our
 L'Oreal 5 'or eal l'o ore rea
 L'Ouverture 9 'ou ert l'o ouv rtu tur ure uve ver
@@ -8324,7 +8324,7 @@ LCD's 3 cd' d's lcd
 LED's 3 d's ed' led
 LPN's 3 lpn n's pn'
 LSD's 3 d's lsd sd'
-La 0
+La 0 la
 La's 2 a's la'
 Laban 3 aba ban lab
 Labrador 6 abr ado bra dor lab rad
@@ -8504,7 +8504,7 @@ Lazaro 4 aro aza laz zar
 Lazaro's 6 aro aza laz o's ro' zar
 Lazarus 5 aru aza laz rus zar
 Lazarus's 7 aru aza laz rus s's us' zar
-Le 0
+Le 0 le
 Le's 2 e's le'
 Lea 1 lea
 Lea's 3 a's ea' lea
@@ -8701,7 +8701,7 @@ Lhasa 3 asa has lha
 Lhasa's 5 a's asa has lha sa'
 Lhotse 4 hot lho ots tse
 Lhotse's 6 e's hot lho ots se' tse
-Li 0
+Li 0 li
 Li's 2 i's li'
 Libby 3 bby ibb lib
 Liberace 6 ace ber era ibe lib rac
@@ -8849,7 +8849,7 @@ Ljubljana 7 ana blj jan jub lja lju ubl
 Ljubljana's 9 a's ana blj jan jub lja lju na' ubl
 Llewellyn 7 ell ewe lew lle lly lyn wel
 Lloyd 3 llo loy oyd
-Ln 0
+Ln 0 ln
 Loafer 4 afe fer loa oaf
 Loafer's 6 afe er' fer loa oaf r's
 Loafers 5 afe ers fer loa oaf
@@ -8988,10 +8988,10 @@ Loyang's 6 ang g's loy ng' oya yan
 Loyd 2 loy oyd
 Loyd's 4 d's loy oyd yd'
 Loyola 4 loy ola oyo yol
-Lr 0
-Lt 0
+Lr 0 lr
+Lt 0 lt
 Ltd 1 ltd
-Lu 0
+Lu 0 lu
 Lu's 2 lu' u's
 Luanda 4 and lua nda uan
 Luanda's 6 a's and da' lua nda uan
@@ -9126,7 +9126,7 @@ Lysistrata 8 ata ist lys rat sis str tra ysi
 Lysistrata's 10 a's ata ist lys rat sis str ta' tra ysi
 Lysol 3 lys sol yso
 Lysol's 5 l's lys ol' sol yso
-M 0
+M 0 m
 M's 1 m's
 MA's 2 a's ma'
 MB's 2 b's mb'
@@ -9765,7 +9765,7 @@ Mazola 4 azo maz ola zol
 Mazola's 6 a's azo la' maz ola zol
 Mazzini 5 azz ini maz zin zzi
 Mazzini's 7 azz i's ini maz ni' zin zzi
-Mb 0
+Mb 0 mb
 Mbabane 5 aba ane bab ban mba
 Mbabane's 7 aba ane bab ban e's mba ne'
 Mbini 3 bin ini mbi
@@ -9862,7 +9862,7 @@ McQueen 5 cqu een mcq que uee
 McQueen's 7 cqu een en' mcq n's que uee
 McVeigh 5 cve eig igh mcv vei
 McVeigh's 7 cve eig gh' h's igh mcv vei
-Md 0
+Md 0 md
 Md's 2 d's md'
 Mead 2 ead mea
 Meade 3 ade ead mea
@@ -10069,7 +10069,7 @@ Meyerbeer 7 bee eer erb eye mey rbe yer
 Meyers 4 ers eye mey yer
 Mfume 3 fum mfu ume
 Mfume's 5 e's fum me' mfu ume
-Mg 0
+Mg 0 mg
 Mg's 2 g's mg'
 MiG 1 mig
 Mia 1 mia
@@ -10277,11 +10277,11 @@ Mitzi 3 itz mit tzi
 Mitzi's 5 i's itz mit tzi zi'
 Mixtec 4 ixt mix tec xte
 Mizar 3 iza miz zar
-Mn 0
+Mn 0 mn
 Mn's 2 mn' n's
 Mnemosyne 7 emo mne mos nem osy syn yne
 Mnemosyne's 9 e's emo mne mos ne' nem osy syn yne
-Mo 0
+Mo 0 mo
 Mo's 2 mo' o's
 Mobil 3 bil mob obi
 Mobil's 5 bil il' l's mob obi
@@ -10532,11 +10532,11 @@ Mozart 4 art moz oza zar
 Mozart's 6 art moz oza rt' t's zar
 Mozilla 5 ill lla moz ozi zil
 Mozilla's 7 a's ill la' lla moz ozi zil
-Mr 0
+Mr 0 mr
 Mr's 2 mr' r's
 Mrs 1 mrs
-Ms 0
-Mt 0
+Ms 0 ms
+Mt 0 mt
 Muawiya 5 awi iya mua uaw wiy
 Muawiya's 7 a's awi iya mua uaw wiy ya'
 Mubarak 5 ara bar mub rak uba
@@ -10651,7 +10651,7 @@ Myst 2 mys yst
 Myst's 4 mys st' t's yst
 Münchhausen 10 aus chh hau hha mü nch sen use �nc ün
 Münchhausen's 12 aus chh en' hau hha mü n's nch sen use �nc ün
-N 0
+N 0 n
 N's 1 n's
 NASA's 4 a's asa nas sa'
 NASCAR 4 asc car nas sca
@@ -10662,7 +10662,7 @@ NE's 2 e's ne'
 NORAD 3 nor ora rad
 NORAD's 5 ad' d's nor ora rad
 NW's 2 nw' w's
-Na 0
+Na 0 na
 Na's 2 a's na'
 Nabisco 5 abi bis isc nab sco
 Nabisco's 7 abi bis co' isc nab o's sco
@@ -10793,13 +10793,13 @@ Nazis 3 azi naz zis
 Nazism 4 azi ism naz zis
 Nazism's 6 azi ism m's naz sm' zis
 Nazisms 5 azi ism naz sms zis
-Nb 0
+Nb 0 nb
 Nb's 2 b's nb'
-Nd 0
+Nd 0 nd
 Nd's 2 d's nd'
 Ndjamena 6 ame dja ena jam men ndj
 Ndjamena's 8 a's ame dja ena jam men na' ndj
-Ne 0
+Ne 0 ne
 Ne's 2 e's ne'
 Neal 2 eal nea
 Neal's 4 al' eal l's nea
@@ -10912,7 +10912,7 @@ Ngaliema 6 ali ema gal iem lie nga
 Ngaliema's 8 a's ali ema gal iem lie ma' nga
 Nguyen 4 guy ngu uye yen
 Nguyen's 6 en' guy n's ngu uye yen
-Ni 0
+Ni 0 ni
 Niagara 5 aga ara gar iag nia
 Niagara's 7 a's aga ara gar iag nia ra'
 Niamey 4 ame iam mey nia
@@ -11123,7 +11123,7 @@ Noyce 3 noy oyc yce
 Noyce's 5 ce' e's noy oyc yce
 Noyes 3 noy oye yes
 Noyes's 5 es' noy oye s's yes
-Np 0
+Np 0 np
 Np's 2 np' p's
 Nubia 3 bia nub ubi
 Nubian 4 bia ian nub ubi
@@ -11146,7 +11146,7 @@ Nyasa 3 asa nya yas
 Nyasa's 5 a's asa nya sa' yas
 Nyerere 5 ere ere nye rer yer
 Nyerere's 7 e's ere ere nye re' rer yer
-O 0
+O 0 o
 O'Brien 5 'br bri ien o'b rie
 O'Casey 5 'ca ase cas o'c sey
 O'Connell 7 'co con ell nel nne o'c onn
@@ -11164,7 +11164,7 @@ OAS's 3 as' oas s's
 OD's 2 d's od'
 OHSA 2 hsa ohs
 OHSA's 4 a's hsa ohs sa'
-OK 0
+OK 0 ok
 OK's 2 k's ok'
 OKs 1 oks
 OPEC's 4 c's ec' ope pec
@@ -11177,7 +11177,7 @@ Oakley 4 akl kle ley oak
 Oates 3 ate oat tes
 Oaxaca 4 aca axa oax xac
 Oaxaca's 6 a's aca axa ca' oax xac
-Ob 0
+Ob 0 ob
 Ob's 2 b's ob'
 Obadiah 5 adi bad dia iah oba
 Obama 3 ama bam oba
@@ -11415,7 +11415,7 @@ Orville 5 ill lle orv rvi vil
 Orville's 7 e's ill le' lle orv rvi vil
 Orwell 4 ell orw rwe wel
 Orwellian 7 ell ian lia lli orw rwe wel
-Os 0
+Os 0 os
 Osage 3 age osa sag
 Osage's 5 age e's ge' osa sag
 Osaka 3 aka osa sak
@@ -11470,7 +11470,7 @@ Oxonian's 7 an' ian n's nia oni oxo xon
 Oxus 2 oxu xus
 Oxycontin 7 con nti ont oxy tin xyc yco
 Oxycontin's 9 con in' n's nti ont oxy tin xyc yco
-Oz 0
+Oz 0 oz
 Ozark 3 ark oza zar
 Ozark's 5 ark k's oza rk' zar
 Ozarks 4 ark oza rks zar
@@ -11479,7 +11479,7 @@ Ozymandias 8 and dia ias man ndi ozy yma zym
 Ozymandias's 10 and as' dia ias man ndi ozy s's yma zym
 Ozzie 3 ozz zie zzi
 Ozzie's 5 e's ie' ozz zie zzi
-P 0
+P 0 p
 P's 1 p's
 PA's 2 a's pa'
 PAC's 3 ac' c's pac
@@ -11491,7 +11491,7 @@ POW's 3 ow' pow w's
 PS's 2 ps' s's
 PST's 3 pst st' t's
 PVC's 3 c's pvc vc'
-Pa 0
+Pa 0 pa
 Pa's 2 a's pa'
 Paar 2 aar paa
 Paar's 4 aar ar' paa r's
@@ -11697,9 +11697,9 @@ Payne 3 ayn pay yne
 Payne's 5 ayn e's ne' pay yne
 Paypal 4 ayp pal pay ypa
 Paypal's 6 al' ayp l's pal pay ypa
-Pb 0
+Pb 0 pb
 Pb's 2 b's pb'
-Pd 0
+Pd 0 pd
 Pd's 2 d's pd'
 Peabody 5 abo bod eab ody pea
 Peabody's 7 abo bod dy' eab ody pea y's
@@ -11983,7 +11983,7 @@ Pius 2 ius piu
 Pius's 4 ius piu s's us'
 Pizarro 5 arr iza piz rro zar
 Pkwy 2 kwy pkw
-Pl 0
+Pl 0 pl
 Planck 4 anc lan nck pla
 Plantagenet 9 age ant ene gen lan net nta pla tag
 Plantagenet's 11 age ant ene et' gen lan net nta pla t's tag
@@ -12025,9 +12025,9 @@ Pluto 3 lut plu uto
 Pluto's 5 lut o's plu to' uto
 Plymouth 6 lym mou out ply uth ymo
 Plymouth's 8 h's lym mou out ply th' uth ymo
-Pm 0
+Pm 0 pm
 Pm's 2 m's pm'
-Po 0
+Po 0 po
 Po's 2 o's po'
 Pocahontas 8 aho cah hon nta oca ont poc tas
 Pocahontas's 10 aho as' cah hon nta oca ont poc s's tas
@@ -12278,7 +12278,7 @@ Psalter's 7 alt er' lte psa r's sal ter
 Psalters 6 alt ers lte psa sal ter
 Psyche 4 che psy syc ych
 Psyche's 6 che e's he' psy syc ych
-Pt 0
+Pt 0 pt
 Pt's 2 pt' t's
 Ptah 2 pta tah
 Ptah's 4 ah' h's pta tah
@@ -12286,7 +12286,7 @@ Ptolemaic 7 aic ema lem mai ole pto tol
 Ptolemies 7 emi ies lem mie ole pto tol
 Ptolemy 5 emy lem ole pto tol
 Ptolemy's 7 emy lem my' ole pto tol y's
-Pu 0
+Pu 0 pu
 Pu's 2 pu' u's
 Puccini 5 cci cin ini puc ucc
 Puck 2 puc uck
@@ -12366,7 +12366,7 @@ Pétain 5 ain pé tai �ta ét
 Pétain's 7 ain in' n's pé tai �ta ét
 Pôrto 4 pô rto �rt ôr
 Pôrto's 6 o's pô rto to' �rt ôr
-Q 0
+Q 0 q
 Qaddafi 5 add afi daf dda qad
 Qaddafi's 7 add afi daf dda fi' i's qad
 Qantas 4 ant nta qan tas
@@ -12423,7 +12423,7 @@ Quixotism's 9 ism ixo m's oti qui sm' tis uix xot
 Qumran 4 mra qum ran umr
 Quonset 5 nse ons quo set uon
 Québecois 8 bec coi eco ois qu� ué �be éb
-R 0
+R 0 r
 R's 1 r's
 RAF's 3 af' f's raf
 RAM's 3 am' m's ram
@@ -12435,7 +12435,7 @@ RNA's 3 a's na' rna
 ROM's 3 m's om' rom
 ROTC's 4 c's otc rot tc'
 RV's 2 rv' v's
-Ra 0
+Ra 0 ra
 Ra's 2 a's ra'
 Rabat 3 aba bat rab
 Rabat's 5 aba at' bat rab t's
@@ -12548,10 +12548,10 @@ Raymond 5 aym mon ond ray ymo
 Raymond's 7 aym d's mon nd' ond ray ymo
 Raymundo 6 aym mun ndo ray und ymu
 Raymundo's 8 aym do' mun ndo o's ray und ymu
-Rb 0
+Rb 0 rb
 Rb's 2 b's rb'
-Rd 0
-Re 0
+Rd 0 rd
+Re 0 re
 Re's 2 e's re'
 Reagan 4 aga eag gan rea
 Reagan's 6 aga an' eag gan n's rea
@@ -12654,7 +12654,7 @@ Reyna's 5 a's eyn na' rey yna
 Reynaldo 6 ald eyn ldo nal rey yna
 Reynaldo's 8 ald do' eyn ldo nal o's rey yna
 Reynolds 6 eyn lds nol old rey yno
-Rh 0
+Rh 0 rh
 Rh's 2 h's rh'
 Rhea 2 hea rhe
 Rhee 2 hee rhe
@@ -12755,7 +12755,7 @@ Rivieras 6 era ier ivi ras riv vie
 Riyadh 4 adh iya riy yad
 Riyadh's 6 adh dh' h's iya riy yad
 Rizal 3 iza riz zal
-Rn 0
+Rn 0 rn
 Rn's 2 n's rn'
 Roach 3 ach oac roa
 Roach's 5 ach ch' h's oac roa
@@ -13013,7 +13013,7 @@ Royce 3 oyc roy yce
 Rozelle 5 ell lle oze roz zel
 Rozelle's 7 e's ell le' lle oze roz zel
 Rte 1 rte
-Ru 0
+Ru 0 ru
 Ru's 2 ru' u's
 Rubaiyat 6 aiy bai iya rub uba yat
 Rubaiyat's 8 aiy at' bai iya rub t's uba yat
@@ -13097,7 +13097,7 @@ Rwandan 5 and dan nda rwa wan
 Rwandan's 7 an' and dan n's nda rwa wan
 Rwandans 6 and ans dan nda rwa wan
 Rwandas 5 and das nda rwa wan
-Rx 0
+Rx 0 rx
 Ryan 2 rya yan
 Ryan's 4 an' n's rya yan
 Rydberg 5 ber dbe erg ryd ydb
@@ -13105,7 +13105,7 @@ Rydberg's 7 ber dbe erg g's rg' ryd ydb
 Ryder 3 der ryd yde
 Ryukyu 4 kyu ryu uky yuk
 Ryukyu's 6 kyu ryu u's uky yu' yuk
-S 0
+S 0 s
 S's 1 s's
 SALT's 4 alt lt' sal t's
 SAM's 3 am' m's sam
@@ -13383,9 +13383,9 @@ Saxons 4 axo ons sax xon
 Saxony 4 axo ony sax xon
 Saxony's 6 axo ny' ony sax xon y's
 Sayers 4 aye ers say yer
-Sb 0
+Sb 0 sb
 Sb's 2 b's sb'
-Sc 0
+Sc 0 sc
 Sc's 2 c's sc'
 Scandinavia 9 and avi can din ina nav ndi sca via
 Scandinavia's 11 a's and avi can din ia' ina nav ndi sca via
@@ -13512,7 +13512,7 @@ Scylla 4 cyl lla scy yll
 Scylla's 6 a's cyl la' lla scy yll
 Scythia 5 cyt hia scy thi yth
 Scythian 6 cyt hia ian scy thi yth
-Se 0
+Se 0 se
 Se's 2 e's se'
 Seaborg 5 abo bor eab org sea
 Seagram 5 agr eag gra ram sea
@@ -13825,7 +13825,7 @@ Shula's 5 a's hul la' shu ula
 Shylock 5 hyl loc ock shy ylo
 Shylockian 8 cki hyl ian kia loc ock shy ylo
 Shylockian's 10 an' cki hyl ian kia loc n's ock shy ylo
-Si 0
+Si 0 si
 Siam 2 iam sia
 Siam's 4 am' iam m's sia
 Siamese 5 ame ese iam mes sia
@@ -13962,7 +13962,7 @@ Slovenian's 9 an' eni ian lov n's nia ove slo ven
 Slovenians 8 ans eni ian lov nia ove slo ven
 Slurpee 5 lur pee rpe slu urp
 Slurpee's 7 e's ee' lur pee rpe slu urp
-Sm 0
+Sm 0 sm
 Sm's 2 m's sm'
 Small 3 all mal sma
 Small's 5 all l's ll' mal sma
@@ -13978,7 +13978,7 @@ Smokey's 6 ey' key mok oke smo y's
 Smolensk 6 ens len mol nsk ole smo
 Smollett 6 ett let lle mol oll smo
 Smuts 3 mut smu uts
-Sn 0
+Sn 0 sn
 Sn's 2 n's sn'
 Snake 3 ake nak sna
 Snake's 5 ake e's ke' nak sna
@@ -14153,16 +14153,16 @@ Sprint's 6 int nt' pri rin spr t's
 Sprite 4 ite pri rit spr
 Sprite's 6 e's ite pri rit spr te'
 Sputnik 5 nik put spu tni utn
-Sq 0
+Sq 0 sq
 Squanto 5 ant nto qua squ uan
 Squibb 4 ibb qui squ uib
 Squibb's 6 b's bb' ibb qui squ uib
-Sr 0
+Sr 0 sr
 Sr's 2 r's sr'
 Srinagar 6 aga gar ina nag rin sri
 Srivijaya 7 aya ija ivi jay riv sri vij
 Srivijaya's 9 a's aya ija ivi jay riv sri vij ya'
-St 0
+St 0 st
 Stacey 4 ace cey sta tac
 Stacey's 6 ace cey ey' sta tac y's
 Staci 3 aci sta tac
@@ -14499,7 +14499,7 @@ Szilard's 7 ard d's ila lar rd' szi zil
 Szymborska 8 bor mbo ors rsk ska szy ymb zym
 Szymborska's 10 a's bor ka' mbo ors rsk ska szy ymb zym
 Sèvres 5 res sè vre �vr èv
-T 0
+T 0 t
 T'ang 3 'an ang t'a
 T's 1 t's
 TB's 2 b's tb'
@@ -14509,7 +14509,7 @@ TNT's 3 nt' t's tnt
 TV's 2 tv' v's
 TWA 1 twa
 TWA's 3 a's twa wa'
-Ta 0
+Ta 0 ta
 Ta's 2 a's ta'
 Tabasco 5 aba asc bas sco tab
 Tabasco's 7 aba asc bas co' o's sco tab
@@ -14683,11 +14683,11 @@ Tauruses 6 aur rus ses tau uru use
 Tawney 4 awn ney taw wne
 Taylor 4 ayl lor tay ylo
 Taylor's 6 ayl lor or' r's tay ylo
-Tb 0
+Tb 0 tb
 Tb's 2 b's tb'
 Tbilisi 5 bil ili isi lis tbi
 Tbilisi's 7 bil i's ili isi lis si' tbi
-Tc 0
+Tc 0 tc
 Tc's 2 c's tc'
 Tchaikovsky 9 aik cha hai iko kov ovs sky tch vsk
 Teasdale 6 ale asd dal eas sda tea
@@ -14777,7 +14777,7 @@ Texan's 5 an' exa n's tex xan
 Texans 4 ans exa tex xan
 Texas 3 exa tex xas
 Texas's 5 as' exa s's tex xas
-Th 0
+Th 0 th
 Th's 2 h's th'
 Thackeray 7 ack cke era hac ker ray tha
 Thad 2 had tha
@@ -14885,7 +14885,7 @@ Thursday's 8 ay' day hur rsd sda thu urs y's
 Thursdays 7 ays day hur rsd sda thu urs
 Thutmose 6 hut mos ose thu tmo utm
 Thutmose's 8 e's hut mos ose se' thu tmo utm
-Ti 0
+Ti 0 ti
 Ti's 2 i's ti'
 Tia 1 tia
 Tia's 3 a's ia' tia
@@ -14964,13 +14964,13 @@ Titicaca 6 aca cac ica iti tic tit
 Tito 2 ito tit
 Tito's 4 ito o's tit to'
 Titus 3 itu tit tus
-Tl 0
+Tl 0 tl
 Tl's 2 l's tl'
 Tlaloc 4 alo lal loc tla
 Tlaloc's 6 alo c's lal loc oc' tla
 Tlingit 5 git ing lin ngi tli
 Tlingit's 7 git ing it' lin ngi t's tli
-Tm 0
+Tm 0 tm
 Tm's 2 m's tm'
 Tobago 4 ago bag oba tob
 Tobago's 6 ago bag go' o's oba tob
@@ -15270,7 +15270,7 @@ Twitter 5 itt ter tte twi wit
 Twitter's 7 er' itt r's ter tte twi wit
 Twizzlers 7 ers izz ler twi wiz zle zzl
 Twizzlers's 9 ers izz ler rs' s's twi wiz zle zzl
-Ty 0
+Ty 0 ty
 Ty's 2 ty' y's
 Tycho 3 cho tyc ych
 Tylenol 5 eno len nol tyl yle
@@ -15285,7 +15285,7 @@ Tyree's 5 e's ee' ree tyr yre
 Tyrone 4 one ron tyr yro
 Tyson 3 son tys yso
 Tyson's 5 n's on' son tys yso
-U 0
+U 0 u
 U's 1 u's
 UBS 1 ubs
 UBS's 3 bs' s's ubs
@@ -15363,7 +15363,7 @@ Upjohn 4 joh ohn pjo upj
 Upjohn's 6 hn' joh n's ohn pjo upj
 Upton 3 pto ton upt
 Upton's 5 n's on' pto ton upt
-Ur 0
+Ur 0 ur
 Ural 2 ral ura
 Urals 3 als ral ura
 Urania 4 ani nia ran ura
@@ -15412,7 +15412,7 @@ Uzbekistan 8 bek eki ist kis sta tan uzb zbe
 Uzbekistan's 10 an' bek eki ist kis n's sta tan uzb zbe
 Uzi 1 uzi
 Uzi's 3 i's uzi zi'
-V 0
+V 0 v
 V's 1 v's
 VAT's 3 at' t's vat
 VCR's 3 cr' r's vcr
@@ -15421,7 +15421,7 @@ VHF's 3 f's hf' vhf
 VI's 2 i's vi'
 VIP's 3 ip' p's vip
 VLF's 3 f's lf' vlf
-Va 0
+Va 0 va
 Vader 3 ade der vad
 Vader's 5 ade der er' r's vad
 Vaduz 3 adu duz vad
@@ -15726,7 +15726,7 @@ Vulcan's 6 an' can lca n's ulc vul
 Vulgate 5 ate gat lga ulg vul
 Vulgate's 7 ate e's gat lga te' ulg vul
 Vulgates 6 ate gat lga tes ulg vul
-W 0
+W 0 w
 W's 1 w's
 WASP's 4 asp p's sp' was
 WATS's 4 ats s's ts' wat
@@ -16080,7 +16080,7 @@ Witt's 4 itt t's tt' wit
 Wittgenstein 10 ein ens gen itt nst ste tei tge ttg wit
 Wittgenstein's 12 ein ens gen in' itt n's nst ste tei tge ttg wit
 Witwatersrand 11 and ate ers itw ran rsr sra ter twa wat wit
-Wm 0
+Wm 0 wm
 Wm's 2 m's wm'
 Wobegon 5 beg ego gon obe wob
 Wobegon's 7 beg ego gon n's obe on' wob
@@ -16147,7 +16147,7 @@ Wrigley 5 gle igl ley rig wri
 Wrigley's 7 ey' gle igl ley rig wri y's
 Wroclaw 5 cla law ocl roc wro
 Wroclaw's 7 aw' cla law ocl roc w's wro
-Wu 0
+Wu 0 wu
 Wu's 2 u's wu'
 Wuhan 3 han uha wuh
 Wurlitzer 7 itz lit rli tze url wur zer
@@ -16168,7 +16168,7 @@ Wyoming's 7 g's ing min ng' omi wyo yom
 Wyomingite 8 git ing ite min ngi omi wyo yom
 Wyomingite's 10 e's git ing ite min ngi omi te' wyo yom
 Wyomingites 9 git ing ite min ngi omi tes wyo yom
-X 0
+X 0 x
 X's 1 x's
 XEmacs 4 acs ema mac xem
 XEmacs's 6 acs cs' ema mac s's xem
@@ -16176,7 +16176,7 @@ XL's 2 l's xl'
 Xanadu 4 adu ana nad xan
 Xanthippe 7 ant hip ipp nth ppe thi xan
 Xavier 4 avi ier vie xav
-Xe 0
+Xe 0 xe
 Xe's 2 e's xe'
 Xenakis 5 aki ena kis nak xen
 Xenakis's 7 aki ena is' kis nak s's xen
@@ -16204,7 +16204,7 @@ Xochipilli 8 chi hip ill ipi lli och pil xoc
 Xochipilli's 10 chi hip i's ill ipi li' lli och pil xoc
 Xuzhou 4 hou uzh xuz zho
 Xuzhou's 6 hou ou' u's uzh xuz zho
-Y 0
+Y 0 y
 Y's 1 y's
 Yacc 2 acc yac
 Yacc's 4 acc c's cc' yac
@@ -16251,7 +16251,7 @@ Yaroslavl 7 aro avl lav osl ros sla yar
 Yataro 4 aro ata tar yat
 Yataro's 6 aro ata o's ro' tar yat
 Yates 3 ate tes yat
-Yb 0
+Yb 0 yb
 Yb's 2 b's yb'
 Yeager 4 age eag ger yea
 Yeager's 6 age eag er' ger r's yea
@@ -16343,7 +16343,7 @@ Yvette 4 ett tte vet yve
 Yvette's 6 e's ett te' tte vet yve
 Yvonne 4 nne onn von yvo
 Yvonne's 6 e's ne' nne onn von yvo
-Z 0
+Z 0 z
 Z's 1 z's
 Zachariah 7 ach ari cha har iah ria zac
 Zachariah's 9 ach ah' ari cha h's har iah ria zac
@@ -16437,7 +16437,7 @@ Zionist's 7 ion ist nis oni st' t's zio
 Zionists 6 ion ist nis oni sts zio
 Zions 3 ion ons zio
 Ziploc 4 ipl loc plo zip
-Zn 0
+Zn 0 zn
 Zn's 2 n's zn'
 Zoe 1 zoe
 Zoe's 3 e's oe' zoe
@@ -16459,7 +16459,7 @@ Zorro 3 orr rro zor
 Zorro's 5 o's orr ro' rro zor
 Zosma 3 osm sma zos
 Zosma's 5 a's ma' osm sma zos
-Zr 0
+Zr 0 zr
 Zr's 2 r's zr'
 Zsigmondy 7 gmo igm mon ndy ond sig zsi
 Zubenelgenubi 11 ben elg ene enu gen lge nel nub ube ubi zub
@@ -16481,7 +16481,7 @@ Zyuganov 6 ano gan nov uga yug zyu
 Zyuganov's 8 ano gan nov ov' uga v's yug zyu
 Zürich 5 ich ric zü �ri ür
 Zürich's 7 ch' h's ich ric zü �ri ür
-a 0
+a 0 a
 aardvark 6 aar ard ark dva rdv var
 aardvark's 8 aar ard ark dva k's rdv rk' var
 aardvarks 7 aar ard ark dva rdv rks var
@@ -17266,7 +17266,7 @@ acuteness's 9 acu cut ene ess nes s's ss' ten ute
 acuter 4 acu cut ter ute
 acutes 4 acu cut tes ute
 acutest 5 acu cut est tes ute
-ad 0
+ad 0 ad
 ad's 2 ad' d's
 adage 3 ada age dag
 adage's 5 ada age dag e's ge'
@@ -18016,7 +18016,7 @@ agronomy's 8 agr gro my' nom omy ono ron y's
 aground 5 agr gro oun rou und
 ague 2 agu gue
 ague's 4 agu e's gue ue'
-ah 0
+ah 0 ah
 aha 1 aha
 ahead 3 ahe ead hea
 ahem 2 ahe hem
@@ -18502,7 +18502,7 @@ alumnus 5 alu lum mnu nus umn
 alumnus's 7 alu lum mnu nus s's umn us'
 alums 3 alu lum ums
 always 4 alw ays lwa way
-am 0
+am 0 am
 amalgam 5 alg ama gam lga mal
 amalgam's 7 alg am' ama gam lga m's mal
 amalgamate 8 alg ama ama ate gam lga mal mat
@@ -18777,7 +18777,7 @@ amusements 8 amu eme ent men mus nts sem use
 amuses 4 amu mus ses use
 amusing 5 amu ing mus sin usi
 amusingly 7 amu gly ing mus ngl sin usi
-an 0
+an 0 an
 anachronism 9 ach ana chr hro ism nac nis oni ron
 anachronism's 11 ach ana chr hro ism m's nac nis oni ron sm'
 anachronisms 10 ach ana chr hro ism nac nis oni ron sms
@@ -20187,7 +20187,7 @@ artwork 5 art ork rtw two wor
 artwork's 7 art k's ork rk' rtw two wor
 artworks 6 art ork rks rtw two wor
 arty 2 art rty
-as 0
+as 0 as
 asbestos 6 asb bes est sbe sto tos
 asbestos's 8 asb bes est os' s's sbe sto tos
 ascend 4 asc cen end sce
@@ -20569,7 +20569,7 @@ asymptotic 8 asy mpt oti pto sym tic tot ymp
 asymptotically 12 all asy cal ica lly mpt oti pto sym tic tot ymp
 asynchronous 10 asy chr hro nch nou ono ous ron syn ync
 asynchronously 12 asy chr hro nch nou ono ous ron sly syn usl ync
-at 0
+at 0 at
 atavism 5 ata avi ism tav vis
 atavism's 7 ata avi ism m's sm' tav vis
 atavistic 7 ata avi ist sti tav tic vis
@@ -21110,7 +21110,7 @@ awoke 3 awo oke wok
 awoken 4 awo ken oke wok
 awol 2 awo wol
 awry 2 awr wry
-ax 0
+ax 0 ax
 ax's 2 ax' x's
 axe 1 axe
 axe's 3 axe e's xe'
@@ -21131,7 +21131,7 @@ axles 3 axl les xle
 axon 2 axo xon
 axon's 4 axo n's on' xon
 axons 3 axo ons xon
-ay 0
+ay 0 ay
 ay's 2 ay' y's
 ayatollah 7 ato aya lah lla oll tol yat
 ayatollah's 9 ah' ato aya h's lah lla oll tol yat
@@ -21148,7 +21148,7 @@ azimuths 6 azi imu mut ths uth zim
 azure 3 azu ure zur
 azure's 5 azu e's re' ure zur
 azures 4 azu res ure zur
-b 0
+b 0 b
 baa 1 baa
 baa's 3 a's aa' baa
 baaed 3 aae aed baa
@@ -22152,7 +22152,7 @@ bazillions 8 azi baz ill ion lio lli ons zil
 bazooka 5 azo baz oka ook zoo
 bazooka's 7 a's azo baz ka' oka ook zoo
 bazookas 6 azo baz kas oka ook zoo
-be 0
+be 0 be
 beach 3 ach bea eac
 beach's 5 ach bea ch' eac h's
 beachcomber 9 ach bea ber chc com eac hco mbe omb
@@ -25957,7 +25957,7 @@ buzzing 5 buz ing uzz zin zzi
 buzzword 6 buz ord uzz wor zwo zzw
 buzzword's 8 buz d's ord rd' uzz wor zwo zzw
 buzzwords 7 buz ord rds uzz wor zwo zzw
-by 0
+by 0 by
 by's 2 by' y's
 bye 1 bye
 bye's 3 bye e's ye'
@@ -25997,7 +25997,7 @@ byways 4 ays byw way ywa
 byword 4 byw ord wor ywo
 byword's 6 byw d's ord rd' wor ywo
 bywords 5 byw ord rds wor ywo
-c 0
+c 0 c
 cab 1 cab
 cab's 3 ab' b's cab
 cabal 3 aba bal cab
@@ -33696,7 +33696,7 @@ crystals 6 als cry rys sta tal yst
 crèche 5 che cr� rè �ch èc
 crèche's 7 che cr� e's he' rè �ch èc
 crèches 6 che cr� hes rè �ch èc
-cs 0
+cs 0 cs
 cub 1 cub
 cub's 3 b's cub ub'
 cubbyhole 7 bby byh cub hol ole ubb yho
@@ -34167,10 +34167,10 @@ czarina 5 ari cza ina rin zar
 czarina's 7 a's ari cza ina na' rin zar
 czarinas 6 ari cza ina nas rin zar
 czars 3 ars cza zar
-d 0
+d 0 d
 d'Arezzo 6 'ar are d'a ezz rez zzo
 d'Estaing 7 'es ain d'e est ing sta tai
-dB 0
+dB 0 db
 dab 1 dab
 dab's 3 ab' b's dab
 dabbed 4 abb bbe bed dab
@@ -38020,7 +38020,7 @@ djinn's 5 dji inn jin n's nn'
 djinni 4 dji inn jin nni
 djinni's 6 dji i's inn jin ni' nni
 djinns 4 dji inn jin nns
-do 0
+do 0 do
 do's 2 do' o's
 doable 4 abl ble doa oab
 doc 1 doc
@@ -39289,7 +39289,7 @@ dérailleur's 11 ail dé eur ill leu lle r's rai ur' �ra ér
 dérailleurs 10 ail dé eur ill leu lle rai urs �ra ér
 détente 6 dé ent nte ten �te ét
 détente's 8 dé e's ent nte te' ten �te ét
-e 0
+e 0 e
 e'er 2 'er e'e
 eBay 2 bay eba
 eBay's 4 ay' bay eba y's
@@ -39741,7 +39741,7 @@ egresses 6 egr ess gre res ses sse
 egret 3 egr gre ret
 egret's 5 egr et' gre ret t's
 egrets 4 egr ets gre ret
-eh 0
+eh 0 eh
 eider 3 der eid ide
 eider's 5 der eid er' ide r's
 eiderdown 7 der dow eid erd ide own rdo
@@ -40039,7 +40039,7 @@ elusively 7 elu ely ive lus siv usi vel
 elusiveness 9 elu ene ess ive lus nes siv usi ven
 elusiveness's 11 elu ene ess ive lus nes s's siv ss' usi ven
 elves 3 elv lve ves
-em 0
+em 0 em
 em's 2 em' m's
 emaciate 6 aci ate cia ema iat mac
 emaciated 7 aci ate cia ema iat mac ted
@@ -41289,7 +41289,7 @@ erupts 4 eru pts rup upt
 erythrocyte 9 cyt ery hro ocy roc ryt thr yte yth
 erythrocyte's 11 cyt e's ery hro ocy roc ryt te' thr yte yth
 erythrocytes 10 cyt ery hro ocy roc ryt tes thr yte yth
-es 0
+es 0 es
 escalate 6 ala ate cal esc lat sca
 escalated 7 ala ate cal esc lat sca ted
 escalates 7 ala ate cal esc lat sca tes
@@ -41676,7 +41676,7 @@ ewer 2 ewe wer
 ewer's 4 er' ewe r's wer
 ewers 3 ers ewe wer
 ewes 2 ewe wes
-ex 0
+ex 0 ex
 ex's 2 ex' x's
 exacerbate 8 ace ate bat cer erb exa rba xac
 exacerbated 9 ace ate bat cer erb exa rba ted xac
@@ -42564,8 +42564,8 @@ eyewitnesses 10 ess ewi eye itn nes ses sse tne wit yew
 eying 3 eyi ing yin
 eyrie 3 eyr rie yri
 eyrie's 5 e's eyr ie' rie yri
-f 0
-fa 0
+f 0 f
+fa 0 fa
 fa's 2 a's fa'
 fable 3 abl ble fab
 fable's 5 abl ble e's fab le'
@@ -46253,7 +46253,7 @@ fuzzy 3 fuz uzz zzy
 fête 3 fê �te êt
 fête's 5 e's fê te' �te êt
 fêtes 4 fê tes �te êt
-g 0
+g 0 g
 gab 1 gab
 gab's 3 ab' b's gab
 gabardine 7 aba ard bar din gab ine rdi
@@ -47624,7 +47624,7 @@ gnomish 5 gno ish mis nom omi
 gnu 1 gnu
 gnu's 3 gnu nu' u's
 gnus 2 gnu nus
-go 0
+go 0 go
 go's 2 go' o's
 goad 2 goa oad
 goad's 4 ad' d's goa oad
@@ -48664,7 +48664,7 @@ grunts 4 gru nts run unt
 gryphon 5 gry hon pho ryp yph
 gryphon's 7 gry hon n's on' pho ryp yph
 gryphons 6 gry hon ons pho ryp yph
-gs 0
+gs 0 gs
 guacamole 7 aca amo cam gua mol ole uac
 guacamole's 9 aca amo cam e's gua le' mol ole uac
 guano 3 ano gua uan
@@ -49010,9 +49010,9 @@ gyros 3 gyr ros yro
 gyroscope 7 cop gyr ope osc ros sco yro
 gyroscope's 9 cop e's gyr ope osc pe' ros sco yro
 gyroscopes 8 cop gyr ope osc pes ros sco yro
-h 0
+h 0 h
 h'm 1 h'm
-ha 0
+ha 0 ha
 haberdasher 9 abe ash ber das erd hab her rda she
 haberdasher's 11 abe ash ber das er' erd hab her r's rda she
 haberdasheries 12 abe ash ber das erd eri hab her ies rda rie she
@@ -49843,7 +49843,7 @@ hazing 4 azi haz ing zin
 hazing's 6 azi g's haz ing ng' zin
 hazings 5 azi haz ing ngs zin
 hazy 2 azy haz
-he 0
+he 0 he
 he'd 2 e'd he'
 he'll 3 'll e'l he'
 he's 2 e's he'
@@ -50464,7 +50464,7 @@ hey 1 hey
 heyday 4 day eyd hey yda
 heyday's 6 ay' day eyd hey y's yda
 heydays 5 ays day eyd hey yda
-hi 0
+hi 0 hi
 hiatus 4 atu hia iat tus
 hiatus's 6 atu hia iat s's tus us'
 hiatuses 6 atu hia iat ses tus use
@@ -50738,7 +50738,7 @@ hive's 4 e's hiv ive ve'
 hived 3 hiv ive ved
 hives 3 hiv ive ves
 hiving 4 hiv ing ivi vin
-ho 0
+ho 0 ho
 ho's 2 ho' o's
 hoagie 4 agi gie hoa oag
 hoagie's 6 agi e's gie hoa ie' oag
@@ -52076,7 +52076,7 @@ hysterical 8 cal eri hys ica ric ste ter yst
 hysterically 10 all cal eri hys ica lly ric ste ter yst
 hysterics 7 eri hys ics ric ste ter yst
 hysterics's 9 cs' eri hys ics ric s's ste ter yst
-i 0
+i 0 i
 iPad 2 ipa pad
 iPhone 4 hon iph one pho
 iPod 2 ipo pod
@@ -52137,7 +52137,7 @@ iconoclastic 10 ast cla con ico las noc ocl ono sti tic
 iconoclasts 9 ast cla con ico las noc ocl ono sts
 icons 3 con ico ons
 icy 1 icy
-id 0
+id 0 id
 id's 2 d's id'
 idea 2 dea ide
 idea's 4 a's dea ea' ide
@@ -52239,7 +52239,7 @@ idyll's 5 dyl idy l's ll' yll
 idyllic 5 dyl idy lic lli yll
 idylls 4 dyl idy lls yll
 idyls 3 dyl idy yls
-if 0
+if 0 if
 if's 2 f's if'
 iffier 4 ffi fie ier iff
 iffiest 5 est ffi fie ies iff
@@ -52928,7 +52928,7 @@ impute 4 imp mpu put ute
 imputed 5 imp mpu put ted ute
 imputes 5 imp mpu put tes ute
 imputing 6 imp ing mpu put tin uti
-in 0
+in 0 in
 in's 2 in' n's
 inabilities 9 abi bil ies ili ina iti lit nab tie
 inability 7 abi bil ili ina ity lit nab
@@ -55318,7 +55318,7 @@ irritations 9 ati ion irr ita ons rit rri tat tio
 irruption 7 ion irr pti rru rup tio upt
 irruption's 9 ion irr n's on' pti rru rup tio upt
 irruptions 8 ion irr ons pti rru rup tio upt
-is 0
+is 0 is
 isinglass 7 ass gla ing isi las ngl sin
 isinglass's 9 ass gla ing isi las ngl s's sin ss'
 island 4 and isl lan sla
@@ -55373,7 +55373,7 @@ isthmi 4 hmi ist sth thm
 isthmus 5 hmu ist mus sth thm
 isthmus's 7 hmu ist mus s's sth thm us'
 isthmuses 7 hmu ist mus ses sth thm use
-it 0
+it 0 it
 it'd 2 it' t'd
 it'll 3 'll it' t'l
 it's 2 it' t's
@@ -55428,7 +55428,7 @@ ivory 3 ivo ory vor
 ivory's 5 ivo ory ry' vor y's
 ivy 1 ivy
 ivy's 3 ivy vy' y's
-j 0
+j 0 j
 jab 1 jab
 jab's 3 ab' b's jab
 jabbed 4 abb bbe bed jab
@@ -56199,9 +56199,9 @@ juxtaposing 9 apo ing jux osi pos sin tap uxt xta
 juxtaposition 11 apo ion iti jux osi pos sit tap tio uxt xta
 juxtaposition's 13 apo ion iti jux n's on' osi pos sit tap tio uxt xta
 juxtapositions 12 apo ion iti jux ons osi pos sit tap tio uxt xta
-k 0
+k 0 k
 kHz 1 khz
-kW 0
+kW 0 kw
 kabob 3 abo bob kab
 kabob's 5 abo b's bob kab ob'
 kabobs 4 abo bob kab obs
@@ -56249,7 +56249,7 @@ kayaks 4 aks aya kay yak
 kazoo 3 azo kaz zoo
 kazoo's 5 azo kaz o's oo' zoo
 kazoos 4 azo kaz oos zoo
-kc 0
+kc 0 kc
 kebab 3 bab eba keb
 kebab's 5 ab' b's bab eba keb
 kebabs 4 abs bab eba keb
@@ -56794,7 +56794,7 @@ krypton's 7 kry n's on' pto ryp ton ypt
 króna 4 kr� ró �na ón
 króna's 6 a's kr� na' ró �na ón
 krónur 5 kr� nur ró �nu ón
-ks 0
+ks 0 ks
 kudos 3 dos kud udo
 kudos's 5 dos kud os' s's udo
 kudzu 3 dzu kud udz
@@ -56803,8 +56803,8 @@ kudzus 4 dzu kud udz zus
 kumquat 5 kum mqu qua uat umq
 kumquat's 7 at' kum mqu qua t's uat umq
 kumquats 6 ats kum mqu qua uat umq
-l 0
-la 0
+l 0 l
+la 0 la
 la's 2 a's la'
 lab 1 lab
 lab's 3 ab' b's lab
@@ -58611,7 +58611,7 @@ llamas 4 ama lam lla mas
 llano 3 ano lan lla
 llano's 5 ano lan lla no' o's
 llanos 4 ano lan lla nos
-lo 0
+lo 0 lo
 load 2 loa oad
 load's 4 ad' d's loa oad
 loadable 6 abl ada ble dab loa oad
@@ -59130,7 +59130,7 @@ loyalty's 7 alt loy lty oya ty' y's yal
 lozenge 5 eng loz nge oze zen
 lozenge's 7 e's eng ge' loz nge oze zen
 lozenges 6 eng ges loz nge oze zen
-ls 0
+ls 0 ls
 luau 2 lua uau
 luau's 4 au' lua u's uau
 luaus 3 aus lua uau
@@ -59390,8 +59390,8 @@ lyricist 6 cis ici ist lyr ric yri
 lyricist's 8 cis ici ist lyr ric st' t's yri
 lyricists 7 cis ici ist lyr ric sts yri
 lyrics 4 ics lyr ric yri
-m 0
-ma 0
+m 0 m
+ma 0 ma
 ma'am 3 'am a'a ma'
 ma's 2 a's ma'
 macabre 5 abr aca bre cab mac
@@ -60695,7 +60695,7 @@ mazourkas 7 azo kas maz our rka urk zou
 mazurka 5 azu maz rka urk zur
 mazurka's 7 a's azu ka' maz rka urk zur
 mazurkas 6 azu kas maz rka urk zur
-me 0
+me 0 me
 mead 2 ead mea
 mead's 4 ad' d's ead mea
 meadow 4 ado dow ead mea
@@ -61365,7 +61365,7 @@ mews's 4 ews mew s's ws'
 mezzanine 7 ani ezz ine mez nin zan zza
 mezzanine's 9 ani e's ezz ine mez ne' nin zan zza
 mezzanines 8 ani ezz ine mez nes nin zan zza
-mi 0
+mi 0 mi
 mi's 2 i's mi'
 miaow 3 aow iao mia
 miaow's 5 aow iao mia ow' w's
@@ -63277,8 +63277,8 @@ mown 2 mow own
 mows 2 mow ows
 mozzarella 8 are ell lla moz ozz rel zar zza
 mozzarella's 10 a's are ell la' lla moz ozz rel zar zza
-ms 0
-mu 0
+ms 0 ms
+mu 0 mu
 much 2 muc uch
 much's 4 ch' h's muc uch
 mucilage 6 age cil ila lag muc uci
@@ -63726,7 +63726,7 @@ muzzle's 6 e's le' muz uzz zle zzl
 muzzled 5 led muz uzz zle zzl
 muzzles 5 les muz uzz zle zzl
 muzzling 6 ing lin muz uzz zli zzl
-my 0
+my 0 my
 myna 2 myn yna
 myna's 4 a's myn na' yna
 mynah 3 myn nah yna
@@ -63787,7 +63787,7 @@ métiers 6 ers ier mé tie �ti ét
 mêlée 5 lé mê �l� ée êl
 mêlée's 7 e's lé mê �e' �l� ée êl
 mêlées 6 lé mê �es �l� ée êl
-n 0
+n 0 n
 nab 1 nab
 nabbed 4 abb bbe bed nab
 nabbing 5 abb bbi bin ing nab
@@ -64642,7 +64642,7 @@ nix's 3 ix' nix x's
 nixed 3 ixe nix xed
 nixes 3 ixe nix xes
 nixing 4 ing ixi nix xin
-no 0
+no 0 no
 no's 2 no' o's
 nobility 6 bil ili ity lit nob obi
 nobility's 8 bil ili ity lit nob obi ty' y's
@@ -65118,7 +65118,7 @@ nozzle 4 noz ozz zle zzl
 nozzle's 6 e's le' noz ozz zle zzl
 nozzles 5 les noz ozz zle zzl
 nth 1 nth
-nu 0
+nu 0 nu
 nuance 4 anc nce nua uan
 nuance's 6 anc ce' e's nce nua uan
 nuanced 5 anc ced nce nua uan
@@ -65310,7 +65310,7 @@ nymphomaniac's 12 ac' ani c's hom iac man mph nia nym oma pho ymp
 nymphomaniacs 11 acs ani hom iac man mph nia nym oma pho ymp
 nymphs 4 mph nym phs ymp
 née 2 né ée
-o 0
+o 0 o
 o'clock 5 'cl clo loc o'c ock
 o'er 2 'er o'e
 oaf 1 oaf
@@ -65697,7 +65697,7 @@ odors 3 dor odo ors
 odyssey 5 dys ody sey sse yss
 odyssey's 7 dys ey' ody sey sse y's yss
 odysseys 6 dys eys ody sey sse yss
-of 0
+of 0 of
 off 1 off
 offal 3 fal ffa off
 offal's 5 al' fal ffa l's off
@@ -65788,7 +65788,7 @@ ogling 4 gli ing lin ogl
 ogre 2 gre ogr
 ogre's 4 e's gre ogr re'
 ogres 3 gre ogr res
-oh 0
+oh 0 oh
 oh's 2 h's oh'
 ohm 1 ohm
 ohm's 3 hm' m's ohm
@@ -65898,7 +65898,7 @@ omnivore 6 ivo mni niv omn ore vor
 omnivore's 8 e's ivo mni niv omn ore re' vor
 omnivores 7 ivo mni niv omn ore res vor
 omnivorous 8 ivo mni niv omn oro ous rou vor
-on 0
+on 0 on
 once 2 nce onc
 once's 4 ce' e's nce onc
 oncology 6 col log nco ogy olo onc
@@ -66120,7 +66120,7 @@ opulent 5 ent len opu pul ule
 opus 2 opu pus
 opus's 4 opu pus s's us'
 opuses 4 opu pus ses use
-or 0
+or 0 or
 oracle 4 acl cle ora rac
 oracle's 6 acl cle e's le' ora rac
 oracles 5 acl cle les ora rac
@@ -67186,7 +67186,7 @@ ovule's 5 e's le' ovu ule vul
 ovules 4 les ovu ule vul
 ovum 2 ovu vum
 ovum's 4 m's ovu um' vum
-ow 0
+ow 0 ow
 owe 1 owe
 owed 2 owe wed
 owes 2 owe wes
@@ -67207,7 +67207,7 @@ ownership 7 ers hip ner own rsh shi wne
 ownership's 9 ers hip ip' ner own p's rsh shi wne
 owning 4 ing nin own wni
 owns 2 own wns
-ox 0
+ox 0 ox
 ox's 2 ox' x's
 oxbow 3 bow oxb xbo
 oxbow's 5 bow ow' oxb w's xbo
@@ -67247,9 +67247,9 @@ oyster's 6 er' oys r's ste ter yst
 oysters 5 ers oys ste ter yst
 ozone 3 one ozo zon
 ozone's 5 e's ne' one ozo zon
-p 0
-pH 0
-pa 0
+p 0 p
+pH 0 ph
+pa 0 pa
 pa's 2 a's pa'
 pace 2 ace pac
 pace's 4 ace ce' e's pac
@@ -69735,7 +69735,7 @@ physiotherapy's 13 apy era her hys iot oth phy py' rap sio the y's ysi
 physique 6 hys iqu phy que siq ysi
 physique's 8 e's hys iqu phy que siq ue' ysi
 physiques 7 hys iqu phy que siq ues ysi
-pi 0
+pi 0 pi
 pi's 2 i's pi'
 pianissimi 8 ani ian imi iss nis pia sim ssi
 pianissimo 8 ani ian imo iss nis pia sim ssi
@@ -74019,7 +74019,7 @@ pythons 5 hon ons pyt tho yth
 pyx 1 pyx
 pyx's 3 pyx x's yx'
 pyxes 3 pyx xes yxe
-q 0
+q 0 q
 qua 1 qua
 quack 3 ack qua uac
 quack's 5 ack ck' k's qua uac
@@ -74429,7 +74429,7 @@ quotient 6 ent ien oti quo tie uot
 quotient's 8 ent ien nt' oti quo t's tie uot
 quotients 7 ent ien nts oti quo tie uot
 quoting 5 ing oti quo tin uot
-r 0
+r 0 r
 rabbi 3 abb bbi rab
 rabbi's 5 abb bbi bi' i's rab
 rabbinate 7 abb ate bbi bin ina nat rab
@@ -75077,7 +75077,7 @@ razz's 4 azz raz z's zz'
 razzed 4 azz raz zed zze
 razzes 4 azz raz zes zze
 razzing 5 azz ing raz zin zzi
-re 0
+re 0 re
 re's 2 e's re'
 reach 3 ach eac rea
 reach's 5 ach ch' eac h's rea
@@ -78824,7 +78824,7 @@ royalties 7 alt ies lti oya roy tie yal
 royalties's 9 alt es' ies lti oya roy s's tie yal
 royalty 5 alt lty oya roy yal
 royalty's 7 alt lty oya roy ty' y's yal
-rs 0
+rs 0 rs
 rub 1 rub
 rub's 3 b's rub ub'
 rubbed 4 bbe bed rub ubb
@@ -79103,7 +79103,7 @@ rutted 4 rut ted tte utt
 rutting 5 ing rut tin tti utt
 rye 1 rye
 rye's 3 e's rye ye'
-s 0
+s 0 s
 sabbatical 8 abb ati bat bba cal ica sab tic
 sabbatical's 10 abb al' ati bat bba cal ica l's sab tic
 sabbaticals 9 abb als ati bat bba cal ica sab tic
@@ -81513,7 +81513,7 @@ sexuality 7 ali exu ity lit sex ual xua
 sexuality's 9 ali exu ity lit sex ty' ual xua y's
 sexually 6 all exu lly sex ual xua
 sexy 2 exy sex
-sh 0
+sh 0 sh
 shabbier 6 abb bbi bie hab ier sha
 shabbiest 7 abb bbi bie est hab ies sha
 shabbily 6 abb bbi bil hab ily sha
@@ -84221,7 +84221,7 @@ snuggles 6 ggl gle les nug snu ugg
 snuggling 7 ggl gli ing lin nug snu ugg
 snugly 4 gly nug snu ugl
 snugs 3 nug snu ugs
-so 0
+so 0 so
 so's 2 o's so'
 soak 2 oak soa
 soak's 4 ak' k's oak soa
@@ -89036,7 +89036,7 @@ systolic 6 lic oli sto sys tol yst
 séance 5 anc nce sé �an éa
 séance's 7 anc ce' e's nce sé �an éa
 séances 6 anc ces nce sé �an éa
-t 0
+t 0 t
 tab 1 tab
 tab's 3 ab' b's tab
 tabbed 4 abb bbe bed tab
@@ -90796,7 +90796,7 @@ thyroid 5 hyr oid roi thy yro
 thyroid's 7 d's hyr id' oid roi thy yro
 thyroids 6 hyr ids oid roi thy yro
 thyself 5 elf hys sel thy yse
-ti 0
+ti 0 ti
 ti's 2 i's ti'
 tiara 3 ara iar tia
 tiara's 5 a's ara iar ra' tia
@@ -91157,7 +91157,7 @@ titular 5 itu lar tit tul ula
 tizzies 5 ies izz tiz zie zzi
 tizzy 3 izz tiz zzy
 tizzy's 5 izz tiz y's zy' zzy
-to 0
+to 0 to
 toad 2 oad toa
 toad's 4 ad' d's oad toa
 toadied 5 adi die ied oad toa
@@ -92831,7 +92831,7 @@ tryst's 5 rys st' t's try yst
 trysted 5 rys ste ted try yst
 trysting 6 ing rys sti tin try yst
 trysts 4 rys sts try yst
-ts 0
+ts 0 ts
 tsar 2 sar tsa
 tsar's 4 ar' r's sar tsa
 tsarina 5 ari ina rin sar tsa
@@ -93335,7 +93335,7 @@ tzarina 5 ari ina rin tza zar
 tzarina's 7 a's ari ina na' rin tza zar
 tzarinas 6 ari ina nas rin tza zar
 tzars 3 ars tza zar
-u 0
+u 0 u
 ubiquitous 8 biq iqu ito ous qui tou ubi uit
 ubiquitously 10 biq iqu ito ous qui sly tou ubi uit usl
 ubiquity 6 biq iqu ity qui ubi uit
@@ -93349,7 +93349,7 @@ ugliest 5 est gli ies lie ugl
 ugliness 6 ess gli ine lin nes ugl
 ugliness's 8 ess gli ine lin nes s's ss' ugl
 ugly 2 gly ugl
-uh 0
+uh 0 uh
 ukelele 5 ele ele kel lel uke
 ukelele's 7 e's ele ele kel le' lel uke
 ukeleles 6 ele ele kel lel les uke
@@ -93397,7 +93397,7 @@ ululate 5 ate lat lul ula ulu
 ululated 6 ate lat lul ted ula ulu
 ululates 6 ate lat lul tes ula ulu
 ululating 7 ati ing lat lul tin ula ulu
-um 0
+um 0 um
 umbel 3 bel mbe umb
 umbel's 5 bel el' l's mbe umb
 umbels 4 bel els mbe umb
@@ -94848,7 +94848,7 @@ unzip 3 nzi unz zip
 unzipped 6 ipp nzi ped ppe unz zip
 unzipping 7 ing ipp nzi pin ppi unz zip
 unzips 4 ips nzi unz zip
-up 0
+up 0 up
 upbeat 4 bea eat pbe upb
 upbeat's 6 at' bea eat pbe t's upb
 upbeats 5 ats bea eat pbe upb
@@ -95057,7 +95057,7 @@ urologist's 9 gis ist log ogi olo rol st' t's uro
 urologists 8 gis ist log ogi olo rol sts uro
 urology 5 log ogy olo rol uro
 urology's 7 gy' log ogy olo rol uro y's
-us 0
+us 0 us
 usable 4 abl ble sab usa
 usage 3 age sag usa
 usage's 5 age e's ge' sag usa
@@ -95151,7 +95151,7 @@ uvular 4 lar ula uvu vul
 uvular's 6 ar' lar r's ula uvu vul
 uvulars 5 ars lar ula uvu vul
 uvulas 4 las ula uvu vul
-v 0
+v 0 v
 vacancies 7 aca anc can cie ies nci vac
 vacancy 5 aca anc can ncy vac
 vacancy's 7 aca anc can cy' ncy vac y's
@@ -96377,7 +96377,7 @@ voyeurism 7 eur ism oye ris uri voy yeu
 voyeurism's 9 eur ism m's oye ris sm' uri voy yeu
 voyeuristic 9 eur ist oye ris sti tic uri voy yeu
 voyeurs 5 eur oye urs voy yeu
-vs 0
+vs 0 vs
 vulcanization 11 ani ati can ion iza lca niz tio ulc vul zat
 vulcanization's 13 ani ati can ion iza lca n's niz on' tio ulc vul zat
 vulcanize 7 ani can ize lca niz ulc vul
@@ -96413,7 +96413,7 @@ vulva's 5 a's lva ulv va' vul
 vulvae 4 lva ulv vae vul
 vulvas 4 lva ulv vas vul
 vying 3 ing vyi yin
-w 0
+w 0 w
 wackier 5 ack cki ier kie wac
 wackiest 6 ack cki est ies kie wac
 wackiness 7 ack cki ess ine kin nes wac
@@ -97021,7 +97021,7 @@ wayward 5 ard ayw war way ywa
 waywardly 7 ard ayw dly rdl war way ywa
 waywardness 9 ard ayw dne ess nes rdn war way ywa
 waywardness's 11 ard ayw dne ess nes rdn s's ss' war way ywa
-we 0
+we 0 we
 we'd 2 e'd we'
 we'll 3 'll e'l we'
 we're 3 're e'r we'
@@ -98710,7 +98710,7 @@ wryness's 7 ess nes ryn s's ss' wry yne
 wuss 2 uss wus
 wuss's 4 s's ss' uss wus
 wusses 4 ses sse uss wus
-x 0
+x 0 x
 xenon 3 eno non xen
 xenon's 5 eno n's non on' xen
 xenophobia 8 bia eno hob nop obi oph pho xen
@@ -98727,7 +98727,7 @@ xylophones 8 hon lop nes one oph pho xyl ylo
 xylophonist 9 hon ist lop nis oni oph pho xyl ylo
 xylophonist's 11 hon ist lop nis oni oph pho st' t's xyl ylo
 xylophonists 10 hon ist lop nis oni oph pho sts xyl ylo
-y 0
+y 0 y
 y'all 3 'al all y'a
 yacht 3 ach cht yac
 yacht's 5 ach cht ht' t's yac
@@ -98801,7 +98801,7 @@ yawning 5 awn ing nin wni yaw
 yawns 3 awn wns yaw
 yaws 2 aws yaw
 yaws's 4 aws s's ws' yaw
-ye 0
+ye 0 ye
 yea 1 yea
 yea's 3 a's ea' yea
 yeah 2 eah yea
@@ -98895,7 +98895,7 @@ yipped 4 ipp ped ppe yip
 yippee 4 ipp pee ppe yip
 yipping 5 ing ipp pin ppi yip
 yips 2 ips yip
-yo 0
+yo 0 yo
 yock 2 ock yoc
 yock's 4 ck' k's ock yoc
 yocks 3 cks ock yoc
@@ -99009,7 +99009,7 @@ yuppies 5 ies pie ppi upp yup
 yuppy 3 ppy upp yup
 yuppy's 5 ppy py' upp y's yup
 yups 2 ups yup
-z 0
+z 0 z
 zanier 4 ani ier nie zan
 zanies 4 ani ies nie zan
 zaniest 5 ani est ies nie zan
@@ -99169,4 +99169,4 @@ zygotes 5 got ote tes ygo zyg
 étude 4 tud ude �tu ét
 étude's 6 de' e's tud ude �tu ét
 études 5 des tud ude �tu ét
- 0
+ 0 
