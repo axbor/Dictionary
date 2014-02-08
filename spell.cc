@@ -11,7 +11,7 @@ int main() {
 	Dictionary dict;
 	string word;
 	while (cin >> word) {
-		transform(word.begin(), word.end(), word.begin(), ::tolower);
+		//transform(word.begin(), word.end(), word.begin(), ::tolower);
 		if (dict.contains(word)) {
 			cout << "Correct." << endl;
 		} else {

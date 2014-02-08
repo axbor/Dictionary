@@ -4,6 +4,8 @@
 #include <string>
 #include <vector>
 
+using namespace std;
+
 class Word {
 public:
 	/* Creates a word w with the sorted trigrams t */
@@ -16,6 +18,9 @@ public:
 	 in this word's trigram vector */
 	unsigned int get_matches(const std::vector<std::string>& t) const;
 private:
+	string word;
+	vector<string> trigrams;
+
 };
 
 #endif

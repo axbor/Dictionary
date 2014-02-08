@@ -50,7 +50,8 @@ int main(){
 				outFile << ' ' << *k	;//writing the trigrams to output file
 			}
 		}else {
-			outFile << 0 << ' ' << inWord; //if the word length was shorter than three, there are 0 trigrams in the word
+			//outFile << 1 << ' ' << inWord; //if the word length was shorter than three, there are 0 trigrams in the word
+			outFile << 0 ;
 		}
 		
 		outFile << endl; 
