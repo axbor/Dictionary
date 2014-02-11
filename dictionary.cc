@@ -105,9 +105,9 @@ void Dictionary::add_trigram_suggestions(vector<string>& suggestions, const stri
 	}
 }
 
-void Dictionary::rank_suggestions(vector<string>& words, const string& word) const{
+void Dictionary::rank_suggestions(vector<string>& suggestions, const string& word) const{
 
-	if(words.size() == 0){
+	if(suggestions.size() == 0){
 		return;
 	}
 	unsigned int editDist;
@@ -115,20 +115,21 @@ void Dictionary::rank_suggestions(vector<string>& words, const string& word) con
 	size_t wordLength = word.length();
 	vector< pair<int, string> > calculatedWords;
 	
-	for(vector<string>:: const_iterator compWord = words.begin() ; compWord != words.end() ; ++compWord ){
+	for(vector<string>:: const_iterator compWord = suggestions.begin() ; compWord != suggestions.end() ; ++compWord ){
 		string compW = *compWord;
 		size_t compWordLength = compW.length();
 
 		
-		for( size_t i = 0 ; i < wordLength ; ++i){
+		for( size_t i = 0 ; i < wordLength+1 ; ++i){
 			d[i][0] = i;
 		}
-		for( size_t j = 0 ; j < compWordLength ; ++j){
+		for( size_t j = 0 ; j < compWordLength+1 ; ++j){
 			d[0][j] = j;
 		}
 		
-		for( size_t i = 1 ; i < wordLength ; ++i){
-			for( size_t j = 1 ; j < compWordLength ; ++j){
+		for( size_t i = 1 ; i <= wordLength ; ++i){
+			for( size_t j = 1 ; j <= compWordLength ; ++j){
+				
 				
 				size_t a = d[i-1][j] +1 ;
 				size_t b = d[i-1][j-1] + (word[i-1] == compW[j-1] ? 0 : 1 );
@@ -145,9 +146,10 @@ void Dictionary::rank_suggestions(vector<string>& words, const string& word) con
 	}
 	
 	sort(calculatedWords.begin(), calculatedWords.end());
-	words.clear();
+	suggestions.clear();
 	for(auto it = calculatedWords.begin(); it != calculatedWords.end(); ++it){
-		words.push_back((*it).second);
+
+		suggestions.push_back((*it).second);
 	}
 	
 }
@@ -155,10 +157,10 @@ void Dictionary::rank_suggestions(vector<string>& words, const string& word) con
 
 
 
-void Dictionary::trim_suggestions(vector<string>& words) const{
+void Dictionary::trim_suggestions(vector<string>& suggestions) const{
 
-	if(words.size() > 5){
-		words.erase(words.begin()+5, words.end());
+	if(suggestions.size() > 5){
+		suggestions.erase(suggestions.begin()+5, suggestions.end());
 	} 
 }
 	
