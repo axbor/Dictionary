@@ -6,7 +6,6 @@
 #include <unordered_set>
 #include "word.h"
 
-using namespace std;
 
 
 class Dictionary {
@@ -16,9 +15,11 @@ public:
 	std::vector<std::string> get_suggestions(const std::string& word) const;
 private:
 	static const int letters = 25;
-	unordered_set<string> dict;
-	vector<Word> words[letters]; 
-	void add_trigram_suggestions( std::vector<string>& suggestions, const std::string& word) const;
+	std::unordered_set<std::string> dict;
+	std::vector<Word> words[letters]; 
+	void add_trigram_suggestions( std::vector<std::string>& suggestions, const std::string& word) const;
+	void rank_suggestions( std::vector<std::string>& words, const std::string& word) const;
+	void trim_suggestions( std::vector<std::string>& words) const;
 
 };
 
